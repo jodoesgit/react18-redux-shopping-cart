@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-const url = "http://course-api.com/react-useReducer-cart-project";
+const url = "https://course-api.com/react-useReducer-cart-project";
 
 const initialState = {
 	cartItems: [],
