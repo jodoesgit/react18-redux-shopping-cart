@@ -1,6 +1,6 @@
 # react18-redux-shopping-cart
 
-# **Live: [Shopping Cart](https://react18-redux-shopping-cart.vercel.app/)**
+## **Live: [Shopping Cart](https://react18-redux-shopping-cart.vercel.app/)**
 
 #### Docs
 
